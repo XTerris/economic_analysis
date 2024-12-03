@@ -1,3 +1,4 @@
 indicators/json/*
 indicators/csv/*
 datasets_metadata/*
+indicators.csv
